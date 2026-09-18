@@ -1,7 +1,7 @@
 # My EC2 Instance 
 resource "aws_key_pair" "key" {
   key_name   = "${var.my_env}-ec2-key"
-  public_key = file("C:\\Users\\KAVITA\\OneDrive\\Desktop\\Terraform-aws\\multi-env-deployment-aws\\terra-key.pub")
+  public_key = file("C:\\Users\\MANISH\\OneDrive\\Desktop\\Terraform-aws\\multi-env-deployment-aws\\terra-key.pub")
 }
 
 resource "aws_vpc" "environment" {
