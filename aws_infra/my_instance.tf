@@ -51,7 +51,7 @@ resource "aws_route_table_association" "public" {
 
 resource "aws_security_group" "security" {
   name        = "${var.my_env}-allow-ssh"
-  description = "This SG is required to open the SSH port for theec2 instance"
+  description = "This SG is required to open the SSH port for the EC2 instance"
   vpc_id      = aws_vpc.environment.id
   ingress {
     from_port   = 22
