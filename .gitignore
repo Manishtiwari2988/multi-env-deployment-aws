@@ -1,0 +1,13 @@
+# SSH private keys
+terra-key
+*.pem
+*.key
+terra-key.pub
+# Terraform working directory and state
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Local Terraform variable files
+*.tfvars
+*.tfvars.json
