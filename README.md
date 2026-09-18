@@ -3,8 +3,8 @@ This repository has been created to understand and keep the proof of the multi e
 
 Following objectives achieved :--
 
-Modularity in Terraform to create multi env (Dev,Stage.Prod) simultaneously.
-Terraform state files separate for each env.
+(1) Modularity in Terraform to create multi env (Dev,Stage.Prod) simultaneously.
+(2) Terraform state files separate for each env.
 
 ************************************************************************************************************************************
 To show Modularity in Terraform to create multi env (Dev,Stage.Prod) simultaneously.
