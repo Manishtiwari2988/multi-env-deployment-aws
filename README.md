@@ -27,3 +27,5 @@ Below are Snapshots for the results :--
 **Terraform state files are also arranged as per the env :--**
 
 <img width="1896" height="530" alt="image" src="https://github.com/user-attachments/assets/b8458565-174f-426e-92ee-544b18dd6868" />
+
+<img width="1861" height="572" alt="image" src="https://github.com/user-attachments/assets/5159a13f-a2a1-4029-b781-4ccbbca329a4" />
